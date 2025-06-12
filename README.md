@@ -26,6 +26,7 @@ This script is designed to create Roblox accounts automatically while running in
 
 **open an IDE of your choice and run the program, it will run automatically for you**
 
+❗ **For the script to work better, place the Google Chrome icon on your desktop and create a file called ```assinatura.txt ```so that pyautogui can recognize it.**
 
 ## 📜 Disclaimer
 
