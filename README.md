@@ -23,6 +23,11 @@ This script is designed to create Roblox accounts automatically while running in
 ```bash
   https://www.python.org/downloads/release/python-3110/
 ```
+**you need to have the following libraries**
+```pip install pyautogui```
+```pip install opencv```
+```pip install string```
+```pip install time```
 
 **open an IDE of your choice and run the program, it will run automatically for you**
 
