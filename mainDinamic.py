@@ -100,6 +100,10 @@ def run_automation ():
     pyautogui.hotkey('ctrl', 'w')
 
     pyautogui.hotkey('alt', 'f4')
+
+    # close last chrome page
+    pyautogui.hotkey('alt', 'tab')
+    pyautogui.hotkey('ctrl', 'w')    
     print("script rodou em", time.ctime())
 
 
