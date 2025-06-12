@@ -25,9 +25,13 @@ This script is designed to create Roblox accounts automatically while running in
 ```
 **you need to have the following libraries**<br>
 ```pip install pyautogui``` <br>
-```pip install opencv```<br>
+```pip install opencv-python```<br>
 ```pip install string```<br>
 ```pip install time```
+
+**The icons have to be like this**
+
+![image](https://github.com/user-attachments/assets/e6d1f6bd-b3fa-4c71-ad8d-7a5e556c534d)
 
 **open an IDE of your choice and run the program, it will run automatically for you**
 
