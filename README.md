@@ -1,7 +1,7 @@
 
 # 🤖 roblox-account-creator-script
 
-This script is designed to create Roblox accounts automatically while running in the background on your computer. It opens the Google Chrome browser, opens an incognito tab, enters the Roblox website and enters the random nickname and password that can be defined in the program. You can decide how often the program will run in minutes to avoid the captcha that Roblox has when trying to create many accounts in a row. Below is a brief explanation of how to run the script.
+This script is designed to create Roblox accounts automatically while running in the background on your computer. It opens the Google Chrome browser, opens an incognito tab, enters the Roblox website and enters the random nickname and password that can be defined in the code. You can decide how often the program will run in minutes to avoid the captcha that Roblox has when trying to create many accounts in a row. Below is a brief explanation of how to run the script.
 
 
 ## 🛠️ Local Running 
