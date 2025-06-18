@@ -4,7 +4,7 @@ import string
 import random
 
 def rand_id(length):
-    caracteres = string.ascii_letters + string.digits
+    caracteres = string.digits
     return ''.join(random.choice(caracteres) for i in range(length))
 
 def run_automation ():
@@ -44,10 +44,10 @@ def run_automation ():
     pyautogui.press('down', presses=20, interval=0.1)
 
     # password & username input
-    rand = rand_id(10)
+    rand = rand_id(5)
     rand_pass = "randomizePassword"
     pyautogui.press('tab')
-    pyautogui.write(rand)
+    pyautogui.write("mitigasao" + rand)
 
     # copy username
     pyautogui.hotkey('ctrl', 'a')
